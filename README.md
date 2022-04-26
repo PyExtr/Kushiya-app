@@ -4,7 +4,7 @@ A Trivia app that was in development with a concept of playing with the family b
 
 We struggled with collecting questions and building database thats big enough, 
 
-But our team is planning to come back to this project someday.
+Our team is planning to come back to this project someday.
 
 Gif demo:
 
