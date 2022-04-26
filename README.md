@@ -1,8 +1,8 @@
 # Kushiya
 
-A Trivia app that was in development with a concept of playing with family but was abandoned.
+A Trivia app that was in development with a concept of playing with the family but was abandoned.
 
-We struggled with collecting questions and building database big enough, 
+We struggled with collecting questions and building database thats big enough, 
 
 But our team is planning to come back to this project someday.
 
