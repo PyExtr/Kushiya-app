@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kushiya</string>
+    <string name="title_text">Trivia</string>
+    <string name="out_of_text">Question: </string>
+    <string name="TrueButten">True</string>
+    <string name="FalseButton">False</string>
+    <string name="NextButten">Next</string>
+    <string name="placeholder">Hello world</string>
+    <string name="text_formated">Question: %d/%d</string>
+    <string name="correct_answer">Correct</string>
+    <string name="correct_false">incorrect</string>
+    <string name="button_prev_view">Previous</string>
+    <string name="HighScoreValue">Highest score: 0</string>
+    <string name="ScoreValue">Score : 0</string>
+    <string name="todo">TODO</string>
+    <string name="answer">answer</string>
+</resources>

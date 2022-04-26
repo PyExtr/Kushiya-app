@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "909151554842",
+    "project_id": "kushiya-hebrew",
+    "storage_bucket": "kushiya-hebrew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909151554842:android:cecb12b19290600cf9f0a3",
+        "android_client_info": {
+          "package_name": "com.example.trivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909151554842-r9a83d9lvv47tbdddg8hbhai8nhou65o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_QoJh8p-WGFGGEymDEUBxMhdjujBBksA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909151554842-r9a83d9lvv47tbdddg8hbhai8nhou65o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
