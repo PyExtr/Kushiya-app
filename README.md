@@ -8,7 +8,7 @@ But our team is planning to come back to this project someday.
 
 Gif demo:
 
-![Demo](demo.gif)
+![Demo](Preview/demo2.gif)
 
 Some pictures of this project:
 
