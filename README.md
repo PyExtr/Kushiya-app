@@ -1,11 +1,12 @@
-# AKushiya - AI-Generated Trivia App
+# Kushiya - AI-Generated Trivia App
 
 Kushiya is an innovative trivia app that utilizes AI to dynamically generate trivia questions and evaluate player responses. Designed with a unique blend of technology and creativity, Kushiya aims to bring an engaging and dynamic user experience to trivia enthusiasts.
 
 # Technologies
 
-Firebase: To handle real-time database functionality, user authentication, and cloud messaging, we're leveraging Firebase's robust and scalable platform.
-Android Studio: The application is built primarily with Android Studio, ensuring a seamless and responsive user experience on Android devices.
+**Firebase**: To handle real-time database functionality, user authentication, and cloud messaging, we're leveraging Firebase's robust and scalable platform.
+
+**Android Studio**: The application is built primarily with Android Studio, ensuring a seamless and responsive user experience on Android devices.
 
 
 # Features
