@@ -21,11 +21,11 @@ Intuitive UI: Developed in collaboration with a team of talented UI/UX professio
 Kushiya is currently in the development phase, with our team actively working on refining its features and functionality. We are excited about the potential of this project and look forward to sharing updates as the project progresses.
 
 
-# Demo
+# Gif Demo
 
 ![Demo](Preview/demo2.gif)
 
-Some pictures of this project:
+# Demo
 
 <p align="center">
   <img 
