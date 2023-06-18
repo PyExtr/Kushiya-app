@@ -8,6 +8,8 @@ Kushiya is an innovative trivia app that utilizes AI to dynamically generate tri
 **Android Studio**: The application is built primarily with Android Studio, ensuring a seamless and responsive user experience on Android devices.
 # Features
 
+**OpenAI API**: To handle real-time Trivia Generator and Smart Scoring System
+
 AI-Powered Trivia Generator: Kushiya employs sophisticated AI algorithms to generate an endless array of trivia questions, keeping the gameplay fresh and exciting.
 
 Smart Scoring System: Our unique scoring system utilizes AI to interpret player responses, offering a contextually accurate score based on the text input from the player. This makes the game more interactive and engaging.
