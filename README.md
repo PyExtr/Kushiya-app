@@ -17,7 +17,8 @@ Smart Scoring System: Our unique scoring system utilizes AI to interpret player 
 Intuitive UI: Developed in collaboration with a team of talented UI/UX professionals, Kushiya offers an intuitive and user-friendly interface. Visual designs of the UI are available in this repository.
 # Current Status
 
-Kushiya is currently in the development phase, with our team actively working on refining its features and functionality. We are excited about the potential of this project and look forward to sharing updates as the project progresses, **we hold an private repository for the most updated version**. 
+Kushiya is currently in the development phase, there is a new repository here: <a href="https://github.com/PyExtr/KushyaApp/tree/main" target="_blank">Link to the repository</a>.
+
 # Gif Demo
 
 ![Demo](Preview/demo2.gif)
